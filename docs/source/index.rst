@@ -1,6 +1,8 @@
 192.168.188.1 Admin Setup: Login, Password, and IP Settings
 ============================================================
 
+
+
 ``192.168.188.1`` is a **private IP address** commonly used to access the admin panel of routers and modems. This guide explains how to log in, configure settings, reset passwords, and troubleshoot connectivity issues.
 
 .. contents::
